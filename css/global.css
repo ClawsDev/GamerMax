@@ -1,0 +1,26 @@
+  @import 'https://fonts.googleapis.com/css?family=Oswald';
+
+  footer {
+      background-color: #555;
+      color: white;
+      padding: 15px;
+    }
+.nav-principal{
+	background-color: #D50000;
+	color: white;
+}    
+.menu-a{
+	color: black;
+}
+.menu-name{
+	color: black;
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+	font-family: 
+}
+.pad-icon{
+	color:white; 
+	font-size: 40px; 
+	position: relative; 
+	right: 7px;
+}
